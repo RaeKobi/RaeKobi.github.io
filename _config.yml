@@ -1,0 +1,14 @@
+# Site Settings
+title: Rae's Personal Website
+email: rae.austin.official@gmail.com
+description: >
+  My personal website, mainly to host a portfolio.
+baseurl: 
+url: "https://raekobi.github.io"
+github_username: RaeKobi
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
